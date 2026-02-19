@@ -14,9 +14,9 @@ const projects: Project[] = [
   {
     title: "CI/CD Pipeline with Jenkins & Docker",
     description: "Set up and managed CI/CD pipelines using Jenkins and GitHub for automated build and deployment. Configured Docker containers and optimized application deployment workflows.",
-    tags: ["Jenkins", "Docker", "CI/CD", "AWS"],
+    tags: ["Jenkins", "Docker", "CI/CD", "AWS","SonarQube","Terraform","Ansible"],
     image: "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?q=80&w=1920",
-    github: "#",
+    github: "https://github.com/sahilll24/Industry_Standard_Production_Grade_Setup",
   },
   {
     title: " Fully Automated Infrastructure & Configuration Deployment ( Zero Human Intervention ) ",
@@ -26,11 +26,11 @@ const projects: Project[] = [
     github: "https://github.com/sahilll24/Infra_Terraform_Config_Ansible_Automation",
   },
   {
-    title: "Enquiry Management System",
-    description: "MERN-based web application for managing customer enquiries with real-time updates, user authentication, and comprehensive dashboard.",
-    tags: ["MERN", "Express.js", "MongoDB", "React"],
+    title: "End-to-End MERN Stack CI/CD Deployment using Jenkins, SonarQube & AWS EC2",
+    description: "Production-style CI/CD automation project demonstrating how a full-stack MERN application is built, tested, quality-checked, containerized, and deployed to AWS EC2 using Jenkins pipelines. From GitHub commit → live production deployment with automated quality gates.",
+    tags: ["Jenkins", "Docker", "AWS", "SonarQube","GitHub"],
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1920",
-    github: "#",
+    github: "https://github.com/sahilll24/Portfolio_Git_Jenkins",
   },
   {
     title: "Infrastructure Monitoring & Automation",
