@@ -19,11 +19,11 @@ const projects: Project[] = [
     github: "#",
   },
   {
-    title: "Employee Management ",
-    description: "Full-stack MERN application with CRUD operations, authentication, and data visualization features. Implemented REST APIs and MongoDB integration.",
-    tags: ["MERN", "MongoDB", "Node.js", "React"],
+    title: " Fully Automated Infrastructure & Configuration Deployment ( Zero Human Intervention ) ",
+    description: "Production-grade Infrastructure as Code (IaC) and Configuration Management project demonstrating secure, SSH-less automation using AWS Systems Manager (SSM), Terraform modules, Ansible roles, and Jenkins pipelines.",
+    tags: ["Terraform", "Ansible", "Jenkins", "AWS SSM"],
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1920",
-    github: "#",
+    github: "https://github.com/sahilll24/Infra_Terraform_Config_Ansible_Automation",
   },
   {
     title: "Enquiry Management System",
