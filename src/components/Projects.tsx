@@ -19,7 +19,7 @@ const projects: Project[] = [
     github: "#",
   },
   {
-    title: "Employee Management System",
+    title: "Employee Management ",
     description: "Full-stack MERN application with CRUD operations, authentication, and data visualization features. Implemented REST APIs and MongoDB integration.",
     tags: ["MERN", "MongoDB", "Node.js", "React"],
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1920",
